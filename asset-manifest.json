@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/patrickabel.github.io/BotFriends/static/css/main.807e47fe.css",
+    "main.js": "/patrickabel.github.io/BotFriends/static/js/main.0a428be7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/patrickabel.github.io/BotFriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/River Adventure Personal Use.woff": "/patrickabel.github.io/BotFriends/static/media/River Adventure Personal Use.65539c82758135dca060.woff",
+    "index.html": "/patrickabel.github.io/BotFriends/index.html",
+    "main.807e47fe.css.map": "/patrickabel.github.io/BotFriends/static/css/main.807e47fe.css.map",
+    "main.0a428be7.js.map": "/patrickabel.github.io/BotFriends/static/js/main.0a428be7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/patrickabel.github.io/BotFriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807e47fe.css",
+    "static/js/main.0a428be7.js"
+  ]
+}
